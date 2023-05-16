@@ -1,3 +1,3 @@
 export interface IGetBiInfo {
-    bi: string;
+  bi: string;
 }
